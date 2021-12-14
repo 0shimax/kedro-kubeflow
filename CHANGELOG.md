@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+-   Handle `KEDRO_ENV` enviroment variable
+
 ## [0.4.4] - 2021-09-29
 
 -   Custom networking setup for Vertex AI pipelines run
